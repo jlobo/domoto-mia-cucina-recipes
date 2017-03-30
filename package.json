@@ -1,0 +1,23 @@
+{
+  "name": "domoto-mia-cucina-recipes",
+  "version": "0.0.1",
+  "description": "Plugin para la aplicación de domoto con recetas",
+  "main": "DomotoRecipe.js",
+  "bin": {
+    "domoto": "DomotoRecipe.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/jloboprs/domoto-mia-cucina-recipes.git"
+  },
+  "keywords": [ "domotica", "domoto", "domoto-extension" ],
+  "author": "José Lobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jloboprs/domoto-mia-cucina-recipes/issues"
+  },
+  "homepage": "https://gitlab.com/jloboprs/domoto-mia-cucina-recipes#README",
+  "dependencies": {
+    "domoto": "^1.0.0"
+  }
+}
