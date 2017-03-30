@@ -1,6 +1,6 @@
 {
   "name": "domoto-mia-cucina-recipes",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Plugin para la aplicación de domoto con recetas",
   "main": "DomotoRecipe.js",
   "bin": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://gitlab.com/jloboprs/domoto-mia-cucina-recipes#README",
   "dependencies": {
-    "domoto": "^1.0.0"
+    "domoto": "^1.1.0"
   }
 }
